@@ -113,8 +113,8 @@ body {
   margin-right: auto;
 }
 .sponsor-image {
-  width: 360px;
-  height: 115px;
+  /* width: 360px;
+  height: 115px; */
   margin: 20px 0;
   transition: all 0.2s ease-in-out;
 }
